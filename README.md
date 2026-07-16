@@ -1,16 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarang Suryawanshi</h1>
-<h3 align="center">C++ Developer • AI Enthusiast • Full-Stack Developer • System Design Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;AI+%26+Agentic+Systems;Full-Stack+Developer;DSA+%7C+System+Design+%7C+Open+Source" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/tarangsuryawanshitarang-eng">
-    <img src="https://img.shields.io/github/followers/tarangsuryawanshitarang-eng?label=Followers&style=for-the-badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tarangsuryawanshitarang-eng&style=for-the-badge&color=blue"/>
-</p>
+<h1 align="center">Tarang Suryawanshi</h1>
 
 ---
 
@@ -68,24 +56,14 @@
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=tarangsuryawanshitarang-eng&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tarangsuryawanshitarang-eng&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tarangsuryawanshitarang-eng&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tarangsuryawanshitarang-eng&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=tarangsuryawanshitarang-eng&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8)
-
----
 
 # 📊 Contribution Graph
 
@@ -95,7 +73,7 @@
 
 # ⚡ Quote
 
-> *"First make it work. Then make it fast. Then make it beautiful."*
+> *"First make it , Then make it perfect"*
 
 ---
 
