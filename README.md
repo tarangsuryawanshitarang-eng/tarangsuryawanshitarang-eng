@@ -41,11 +41,11 @@ Software Engineering Student • AI Enthusiast • Open Source Learner
 
 <p>
   <a href="https://en.cppreference.com/">
-    <img src="https://skillicons.dev/icons?i=cpp"/>
+    <img src="https://devdocs.io/cpp-algorithm/"/>
   </a>
 
   <a href="https://en.cppreference.com/w/c">
-    <img src="https://skillicons.dev/icons?i=c"/>
+    <img src="https://devdocs.io/c/"/>
   </a>
 
   <a href="https://docs.python.org/3/">
