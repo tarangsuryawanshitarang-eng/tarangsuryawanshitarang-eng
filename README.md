@@ -1,8 +1,8 @@
 <h1 align="center">Tarang Suryawanshi</h1>
 
-<p align="center">
+<h3 align="center">
 Software Engineering Student • AI Enthusiast • Open Source Learner
-</p>
+</h3>
 
 ---
 
@@ -62,18 +62,10 @@ Software Engineering Student • AI Enthusiast • Open Source Learner
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarangsuryawanshitarang-eng&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarangsuryawanshitarang-eng&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/tarangsuryawanshitarang-eng/tarangsuryawanshitarang-eng/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -82,12 +74,6 @@ Software Engineering Student • AI Enthusiast • Open Source Learner
 
 > *"First make it, Then make it perfect."*
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tarangsuryawanshitarang-eng/tarangsuryawanshitarang-eng/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
