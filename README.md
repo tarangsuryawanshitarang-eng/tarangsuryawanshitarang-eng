@@ -21,11 +21,15 @@ Software Engineering Student • AI Enthusiast • Open Source Learner
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tarang-suryawanshi-6035b6388">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:tarangsuryawanshitarang@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Tarang_Suryawanshi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -36,28 +40,73 @@ Software Engineering Student • AI Enthusiast • Open Source Learner
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css" />
+  <a href="https://en.cppreference.com/">
+    <img src="https://skillicons.dev/icons?i=cpp"/>
+  </a>
+
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://skillicons.dev/icons?i=c"/>
+  </a>
+
+  <a href="https://docs.python.org/3/">
+    <img src="https://skillicons.dev/icons?i=python"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css"/>
+  </a>
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker" />
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+  </a>
+
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git"/>
+  </a>
+
+  <a href="https://docs.github.com/">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+
+  <a href="https://docs.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker"/>
+  </a>
 </p>
 
 ### Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=render" />
+  <a href="https://vercel.com/docs">
+    <img src="https://skillicons.dev/icons?i=vercel"/>
+  </a>
+
+  <a href="https://render.com/docs">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=render"/>
+  </a>
 </p>
 
 ### Libraries & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <a href="https://numpy.org/doc/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/docs/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  </a>
+
+  <a href="https://docs.github.com/actions">
+    <img src="https://skillicons.dev/icons?i=githubactions"/>
+  </a>
 </p>
 
 ---
@@ -65,15 +114,13 @@ Software Engineering Student • AI Enthusiast • Open Source Learner
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tarangsuryawanshitarang-eng/tarangsuryawanshitarang-eng/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/tarangsuryawanshitarang-eng/tarangsuryawanshitarang-eng/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
-## ⚡ Quote
-
-> *"First make it, Then make it perfect."*
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%22First+make+it.+Then+make+it+perfect.%22" alt="Quote"/>
+</p>
 
 ---
